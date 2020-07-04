@@ -1,0 +1,14 @@
+#truck 
+#highway 
+#vehicles 
+#tractor 
+#crane 
+#trolley 
+#tanker 
+#loader 
+#dumpster 
+#truckload 
+#motortruck 
+#hand_truck 
+#truckdrivers 
+#classictrucks 

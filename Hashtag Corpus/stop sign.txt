@@ -1,0 +1,11 @@
+#red 
+#adopt 
+#dot 
+#dash 
+#bus_stop 
+#signed 
+#cancelled 
+#cancel 
+#stop_sign 
+#stop_signs 
+#stop_signal 

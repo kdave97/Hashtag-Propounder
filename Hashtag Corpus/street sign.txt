@@ -1,0 +1,12 @@
+#sidewalk 
+#street_sign 
+#service_area 
+#safety_island 
+#yellow_line 
+#street_corner 
+#taxi_stand 
+#flag_down 
+#rest_area 
+#local_road 
+#traffic_lane 
+#street_signs 

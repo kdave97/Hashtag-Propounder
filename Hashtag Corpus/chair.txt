@@ -1,0 +1,7 @@
+#chair 
+#seat 
+#couch 
+#wheelchair 
+#chairdance 
+#chairs 
+#chairmassage 

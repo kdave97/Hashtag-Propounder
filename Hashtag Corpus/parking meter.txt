@@ -1,0 +1,7 @@
+#vacant_lot 
+#parking_meter 
+#speeding_ticket 
+#voting_machine 
+#parkingmeters 
+#meterparking 
+#parking_meter 
