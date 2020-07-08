@@ -10,3 +10,5 @@ Captions are a useful description of the image. Apart from extracting useful fea
 
 The aim of the model is to generate the most appropriate hashtags based on the user’s input image and caption. The model takes these inputs and separately performs the operations on both the inputs. The Image analysis model performs functions like image processing and extracting objects from the image. Similarly, the text analysis model takes the caption as input and performs named entity recognition to identify the keywords. Based on the output of these models, the hashtag generator model will determine the hashtags. Later these hashtags are filtered out based on the trending hashtags. The final output to the user will be a set of most relevant hashtags.
 
+![alt text](https://github.com/kdave97/Hashtag-Propounder/blob/master/images/Coalesce%20model.JPG)
+
