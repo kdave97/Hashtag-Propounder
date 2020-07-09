@@ -20,4 +20,4 @@ The aim of the model is to generate the most appropriate hashtags based on the u
 
 ![alt text](https://github.com/kdave97/Hashtag-Propounder/blob/master/images/input_caption.PNG)
 
-![alt text](https://github.com/kdave97/Hashtag-Propounder/blob/master/images/result_image.PNG)
+<a href="url"><img src="https://github.com/kdave97/Hashtag-Propounder/blob/master/images/result_image.PNG" style="border-radius:50%"></a>
