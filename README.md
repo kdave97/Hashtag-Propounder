@@ -16,8 +16,15 @@ The aim of the model is to generate the most appropriate hashtags based on the u
 * Text Analysis - Text analysis is another initial step to extract the important keywords and phrases from the captions provided by the user. Once the caption is provided by the user, the text analysis model will perform named entity recognition and suggest the important keywords from the image. Named-entity recognition (NER) (also known as entity identification, entity chunking, and entity extraction) is a subtask of information extraction that seeks to locate and classify named entity mentions in unstructured text into predefined categories such as the person names, organizations, locations, time expressions, etc. Full named-entity recognition is often broken down, conceptually as two distinct problems: detection of names, and classification of the names by the type of entity they refer to (e.g. person, organization, location and other).
 
 ## User Interface and Results
-![alt text](https://github.com/kdave97/Hashtag-Propounder/blob/master/images/input_image.PNG)
 
-![alt text](https://github.com/kdave97/Hashtag-Propounder/blob/master/images/input_caption.PNG)
+| ![alt text](https://github.com/kdave97/Hashtag-Propounder/blob/master/images/input_image.PNG) |
+|:--:|
+|*Upload Image*|
 
-<a href="url"><img src="https://github.com/kdave97/Hashtag-Propounder/blob/master/images/result_image.PNG" style="border-radius:50%"></a>
+| ![alt text](https://github.com/kdave97/Hashtag-Propounder/blob/master/images/input_caption.PNG) |
+|:--:|
+|*Enter Caption*|
+
+| ![alt text](https://github.com/kdave97/Hashtag-Propounder/blob/master/images/result_image.PNG) |
+|:--:|
+|*Generated Hashtags*|
