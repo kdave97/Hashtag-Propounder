@@ -19,12 +19,14 @@ The aim of the model is to generate the most appropriate hashtags based on the u
 
 | ![alt text](https://github.com/kdave97/Hashtag-Propounder/blob/master/images/input_image.PNG) |
 |:--:|
-|*Upload Image*|
+|**Upload Image**|
+<br/>
 
 | ![alt text](https://github.com/kdave97/Hashtag-Propounder/blob/master/images/input_caption.PNG) |
 |:--:|
-|*Enter Caption*|
+|**Enter Caption**|
+<br/>
 
 | ![alt text](https://github.com/kdave97/Hashtag-Propounder/blob/master/images/result_image.PNG) |
 |:--:|
-|*Generated Hashtags*|
+|**Generated Hashtags**|
